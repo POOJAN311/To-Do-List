@@ -8,7 +8,6 @@ input.addEventListener('keypress', function (e) {
 
     }
 })
-
 function addItem(e) {
     const task_value = input.value;
     // console.log(task_value);
